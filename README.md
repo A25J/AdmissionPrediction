@@ -7,6 +7,8 @@ This project implements a machine learning pipeline to predict a student’s adm
 It compares multiple regression algorithms using cross-validation and evaluation metrics, then optionally saves the best model to disk.
 
 The dataset used is Admission_Predict.csv, which contains features such as GRE Score, TOEFL Score, CGPA, etc.
+
+
 -------------------------------------------------
 
 Features:
@@ -37,6 +39,8 @@ Features:
   4- Model Saving
 
     Best-performing regressor can be saved as .sav using pickle
+
+------------------------------------------------------------------
 
 Metrics Used:
 -------------
