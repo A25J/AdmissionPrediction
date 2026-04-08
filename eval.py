@@ -42,6 +42,13 @@ if __name__ == "__main__":
 
     sop_text = read_file(sop_path)
     lor_text = read_file(lor_path)
+
+
+    gre = float(input("GRE Score / 340: "))
+    toefl = float(input("TOEFL Score / 120: "))
+    cgpa = float(input("CGPA / 10: "))
+    university_rating = float(input("University Rating / 5: "))
+    research = float(input("Research Experience (0 or 1): "))
     print("\n======SOP Document Evaluation:======")
     sop_score = score_document(extract_all_features(sop_text))
     print("\n======LOR Document Evaluation:======")
@@ -50,13 +57,6 @@ if __name__ == "__main__":
     print("\n--- NLP Evaluation ---")
     print(f"SOP Score: {sop_score} / 5")
     print(f"LOR Score: {lor_score} / 5")
-
-    gre = float(input("GRE Score / 340: "))
-    toefl = float(input("TOEFL Score / 120: "))
-    cgpa = float(input("CGPA / 10: "))
-    university_rating = float(input("University Rating / 5: "))
-    research = float(input("Research Experience (0 or 1): "))
-
     # Feature order MUST match ML training
     X = np.array([
         gre,
