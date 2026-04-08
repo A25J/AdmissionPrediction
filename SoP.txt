@@ -1,0 +1,17 @@
+Statement of Purpose
+Applicant: Daniel Karim
+Program: Master’s in Artificial Intelligence
+Institution: Brighton Institute of Technology
+
+From an early age, I have been fascinated by the intersection of human intelligence and computational systems. Growing up in Amman, Jordan, I often found myself dismantling electronic devices to understand how they worked, and later, writing simple programs to automate everyday tasks. This curiosity evolved into a deep academic interest during my undergraduate studies in Computer Science at Greenfield University, where I graduated with distinction.
+
+My academic journey has been shaped by a strong foundation in machine learning, data structures, and algorithm design. In my final year, I undertook a research project titled “Neural Network Optimization for Low-Power Devices,” which explored efficient deep learning models for mobile platforms. This project not only earned me the Best Undergraduate Research Award but also sparked my desire to pursue advanced study in Artificial Intelligence.
+
+Beyond coursework, I actively sought opportunities to apply my knowledge. As president of the Computer Science Student Association, I organized hackathons and coding workshops that attracted participants from across the region. These experiences honed my leadership skills and reinforced my belief in the power of collaboration. Additionally, my internship at TechNova Solutions exposed me to real-world challenges in deploying AI systems for healthcare applications, deepening my commitment to research that balances innovation with ethical responsibility.
+
+My long-term goal is to contribute to the development of AI systems that are both powerful and socially responsible. I am particularly interested in research on explainable AI and its applications in healthcare and education. I believe that the Brighton Institute of Technology, with its renowned faculty and cutting-edge research facilities, offers the ideal environment to pursue these interests. I am especially eager to work under the guidance of Professor Elena Rossi, whose work on interpretable machine learning models aligns closely with my aspirations.
+
+In conclusion, I bring with me a strong academic background, proven research ability, and a passion for advancing the field of Artificial Intelligence. I am confident that the Master’s program at Brighton Institute of Technology will provide me with the knowledge, mentorship, and opportunities necessary to achieve my goals. I look forward to contributing to your academic community and to the broader field of AI.
+
+Sincerely,
+Daniel Karim
