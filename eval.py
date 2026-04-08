@@ -70,7 +70,10 @@ if __name__ == "__main__":
 
     prediction = bestRegressor.predict(X)[0]
     prediction = round(prediction, 2)
-    print(Fore.GREEN, "The model has predicted: ", Fore.RESET, prediction*100, "%")
+    print("\n\nWith the Entered values: \nGRE Score: ", Fore.LIGHTBLUE_EX ,gre,Fore.RESET," /340\nTOEFL Score: ",Fore.LIGHTBLUE_EX , toefl,Fore.RESET,
+          "/120\nUniversity Rating: ", Fore.LIGHTBLUE_EX ,university_rating,Fore.RESET,
+          "/5\nCGPA Score: ",Fore.LIGHTBLUE_EX , cgpa,Fore.RESET, "/10", "\nResearch Experience: ", Fore.LIGHTBLUE_EX ,research,Fore.RESET)
+    print(Fore.GREEN, "\n\nThe model has predicted: ", Fore.RESET, prediction*100, "%")
     if prediction > 0.5:
         print(Fore.BLUE, "You have a high chance to be accepted for being accepted in graduate degrees", Fore.RESET)
     else:
